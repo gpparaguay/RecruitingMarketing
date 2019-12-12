@@ -18,6 +18,11 @@
     font-family: "MuseoSans900";
     src: url("https://github.com/gpparaguay/RecruitingMarketing/blob/master/font/MuseoSans_900.otf?raw=true");
 }
+body, html {
+    height: 100%;
+    font-family: "MuseoSans_300";            
+    font-weight: 200;
+}       
 .FuenteCajaBG
 {
     height: 25px;
