@@ -1,0 +1,51 @@
+.FuenteCajaBG
+{
+    height: 25px;
+    font-family: "Museo Sans 300";
+    src: url("https://github.com/BDITeambiz/static/raw/develop/fonts/MuseoSans_300.otf");                
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+    vertical-align: bottom;
+}
+.btnColorRed {
+    font-family: "Museo Sans 300";
+    width: 220px;
+    height: 40px;
+    border: 4px solid white;
+    background-color: #b8191e !important;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: sans-serif !important;
+}
+.btnColorBlack {
+    font-family: "Museo Sans 300";
+    width: 220px;
+    height: 40px;
+    border: 4px solid white;
+    background-color: #b8191e !important;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: sans-serif !important;
+}
+.containerSeccionColorRed {
+    background-color: #b8191e;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height: 113px;
+}
+.containerSeccionColorBlack {
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    z-index: -1;
+    min-height: 116px;
+}
