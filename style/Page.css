@@ -1,8 +1,27 @@
+@font-face {
+    font-family: "MuseoSans100";
+    src: url("https://github.com/gpparaguay/RecruitingMarketing/blob/master/font/MuseoSans_100.otf?raw=true");
+}
+@font-face {
+    font-family: "MuseoSans300";
+    src: url("https://github.com/gpparaguay/RecruitingMarketing/blob/master/font/MuseoSans_300.otf?raw=true");
+}
+@font-face {
+    font-family: "MuseoSans500";
+    src: url("https://github.com/gpparaguay/RecruitingMarketing/blob/master/font/MuseoSans_500.otf?raw=true");
+}
+@font-face {
+    font-family: "MuseoSans700";
+    src: url("https://github.com/gpparaguay/RecruitingMarketing/blob/master/font/MuseoSans_700.otf?raw=true");
+}
+@font-face {
+    font-family: "MuseoSans900";
+    src: url("https://github.com/gpparaguay/RecruitingMarketing/blob/master/font/MuseoSans_900.otf?raw=true");
+}
 .FuenteCajaBG
 {
     height: 25px;
-    font-family: "Museo Sans 300";
-    src: url("https://github.com/BDITeambiz/static/raw/develop/fonts/MuseoSans_300.otf");                
+    font-family: "MuseoSans_300";
     font-weight: 500;
     font-size: 18px;
     color: #fff;
